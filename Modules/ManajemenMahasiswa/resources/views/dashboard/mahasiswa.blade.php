@@ -27,4 +27,4 @@
             </span>
         </div>
     </div>
-</x-banksoal::layouts.master>
+</x-ManajemenMahasiswa::layouts.master>
